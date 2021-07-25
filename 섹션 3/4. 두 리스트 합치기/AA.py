@@ -1,7 +1,7 @@
 import sys
 # sys.stdin = open("input.txt", "r")
 
-# sort함수를 쓰면 nlong(n)임.
+# sort함수를 쓰면 nlog(n)임.
 # list가 이미 정렬되어있을 때는 n번만에 가능함. 이건 큰차이
 
 n = int(input())
